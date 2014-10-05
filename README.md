@@ -3,9 +3,9 @@
 ## *Lab #1:*
 
    * Basic arithmetic
-   * Creating variables
-   * Removing variables: rm()
-   * Variables types:
+   * Creating vector
+   * Removing vector: rm()
+   * Vector types:
       * class()
       * is.integer()
       * is.numeric()
@@ -15,4 +15,16 @@
       * as.POSIXct()
       * as.POSIXlt()
    * Equivalence
-   * 
+   * Change vector types:
+      * as.factor()
+      * as.numeric()
+      * as.integer()
+   * Vector calculations:
+      * mean()
+      * sum()
+      * length()
+      * seq()
+      * names()
+   * Missing data:
+      * is.na()
+      * is.null()
