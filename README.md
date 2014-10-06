@@ -3,8 +3,8 @@
 ## *Lab #1:*
 
    * Basic arithmetic
-   * Creating vector
-   * Removing vector: rm()
+   * Creating vectors
+   * Removing vectors: rm()
    * Vector types:
       * class()
       * is.integer()
