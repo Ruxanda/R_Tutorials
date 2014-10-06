@@ -32,4 +32,5 @@
 ## *Lab #2:*
 
    * Matrix: matrix()
+   * List: list()
    * 
