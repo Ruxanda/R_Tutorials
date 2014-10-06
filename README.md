@@ -46,3 +46,10 @@
       * dim()
       * nrow()
       * head()
+   * aggregate()
+   * plyr package
+      * ddply()
+      * llply()
+      * sapply()
+   * join()
+   * 
