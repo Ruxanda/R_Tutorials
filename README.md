@@ -47,9 +47,16 @@
       * nrow()
       * head()
    * aggregate()
-   * plyr package
+   * plyr package:
       * ddply()
       * llply()
+      * laply()
       * sapply()
    * join()
-   * 
+   * paste()
+   * sprintf()
+   * reshape package:
+      * melt()
+      * dcast()
+
+
