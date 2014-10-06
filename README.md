@@ -34,8 +34,12 @@
    * Matrix: matrix()
    * List: list()
    * Data Frame: data.frame()
+   * Summation:
+      * rowSums()
+      * colSums()
    * Apply functions:
       * apply()
       * lapply()
       * sapply()
+      * mapply()
    * 
