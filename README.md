@@ -55,7 +55,7 @@
    * join()
    * paste()
    * sprintf()
-   * reshape package:
+   * reshape2 package:
       * melt()
       * dcast()
 
