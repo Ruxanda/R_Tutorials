@@ -33,8 +33,9 @@
 
    * Matrix: matrix()
    * List: list()
+   * Data Frame: data.frame()
    * Apply functions:
       * apply()
       * lapply()
-      * 
+      * sapply()
    * 
