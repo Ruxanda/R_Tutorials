@@ -28,3 +28,6 @@
    * Missing data:
       * is.na()
       * is.null()
+
+## *Lab #2:*
+
