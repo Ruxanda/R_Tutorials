@@ -33,4 +33,7 @@
 
    * Matrix: matrix()
    * List: list()
+   * Apply functions:
+      * apply()
+      * 
    * 
