@@ -35,5 +35,6 @@
    * List: list()
    * Apply functions:
       * apply()
+      * lapply()
       * 
    * 
