@@ -33,7 +33,6 @@
 
    * Matrix: matrix()
    * List: list()
-   * Data Frame: data.frame()
    * Summation:
       * rowSums()
       * colSums()
@@ -42,4 +41,8 @@
       * lapply()
       * sapply()
       * mapply()
-   * 
+   * Data Frame: 
+      * data.frame()
+      * dim()
+      * nrow()
+      * head()
