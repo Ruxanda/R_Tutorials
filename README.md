@@ -41,6 +41,8 @@
       * lapply()
       * sapply()
       * mapply()
+   * Build Functions:
+      * function()
    * Data Frame: 
       * data.frame()
       * dim()
