@@ -61,4 +61,10 @@
       * melt()
       * dcast()
 
+## *Lab #3:*
 
+   * readHTMLTable()
+   * Date:
+      * as.Date()
+      * year() - lubridate package
+   * 
