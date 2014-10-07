@@ -69,7 +69,7 @@
       * as.Date()
       * year() - lubridate package
    * XML package 
-   * stringr package
+   * stringr package:
       * str_split()
       * str_sub()
       * str_detect()
