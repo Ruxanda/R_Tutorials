@@ -68,6 +68,7 @@
    * Date:
       * as.Date()
       * year() - lubridate package
+   * XML package 
    * stringr package
       * str_split()
       * str_sub()
