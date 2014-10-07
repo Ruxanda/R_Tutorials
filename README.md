@@ -64,7 +64,11 @@
 ## *Lab #3:*
 
    * readHTMLTable()
+   * write.table()
    * Date:
       * as.Date()
       * year() - lubridate package
+   * stringr package
+      * str_split()
+      * str_sub()
    * 
