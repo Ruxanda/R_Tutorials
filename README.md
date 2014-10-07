@@ -71,4 +71,7 @@
    * stringr package
       * str_split()
       * str_sub()
+      * str_detect()
+      * str_extract()
+      * str_replace()
    * 
