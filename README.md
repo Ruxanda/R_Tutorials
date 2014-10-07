@@ -64,6 +64,7 @@
 ## *Lab #3:*
 
    * readHTMLTable()
+   * as.data.frame()
    * write.table()
    * Date:
       * as.Date()
