@@ -75,4 +75,5 @@
       * str_detect()
       * str_extract()
       * str_replace()
-   * 
+
+
