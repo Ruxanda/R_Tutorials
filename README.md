@@ -113,6 +113,7 @@
 
    * K-Means: kmeans()
    * Hardigans Rule: FitKMeans()
+   * Gap Statistics: cluster package - clusGap()
    * 
 
 
