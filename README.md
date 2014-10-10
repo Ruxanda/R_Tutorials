@@ -80,6 +80,8 @@
 ## *Lab #4:*
 
    * ggplot2 package:
-      * 
+      * ggplot()
+      * geom_histogram()
+      * geom_density()
       * 
    * 
