@@ -86,5 +86,20 @@
       * geom_point()
       * facet_wrap()
       * facet_grid()
-      * 
+      * geom_line()
+      * geom_smooth()
+   * ggthemes package:
+      * theme_economist()
+      * theme_wsj()
+      * theme_excel()
+      * theme_tufte()
+      * scale_color_economist()
+   * lubridate package:
+      * year()
+      * month()
+   * Linear model: lm()
    * 
+
+
+
+
