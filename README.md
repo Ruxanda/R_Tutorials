@@ -83,5 +83,8 @@
       * ggplot()
       * geom_histogram()
       * geom_density()
+      * geom_point()
+      * facet_wrap()
+      * facet_grid()
       * 
    * 
