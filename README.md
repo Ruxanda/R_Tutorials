@@ -98,6 +98,11 @@
       * year()
       * month()
    * Linear model: lm()
+   * LaTex code with xtable package:
+      * xtable()
+   * coefplot package:
+      * coefplot()
+      * multiplot()
    * 
 
 
