@@ -112,6 +112,7 @@
 ## *Lab #5:*
 
    * K-Means: kmeans()
+   * Hardigans Rule: FitKMeans()
    * 
 
 
