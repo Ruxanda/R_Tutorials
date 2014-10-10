@@ -111,6 +111,7 @@
 
 ## *Lab #5:*
 
+   * K-Means: kmeans()
    * 
 
 
