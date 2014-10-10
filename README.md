@@ -103,7 +103,11 @@
    * coefplot package:
       * coefplot()
       * multiplot()
-   * 
+   * cut() - to bin vectors
+   * boot package: (Cross validation)
+      * cv.glm()
+      * cv.lm()
+   * set.seed() - to replicate results
 
 
 
