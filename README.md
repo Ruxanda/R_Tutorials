@@ -115,6 +115,11 @@
    * Hardigans Rule: FitKMeans()
    * Gap Statistics: cluster package - clusGap()
    * K-Medoids: pam()
-   * 
+   * packages parallel, doParellel:
+      * makeCluster()
+      * registerDoParallel()
+      * stopCluster()
+
+
 
 
