@@ -79,4 +79,7 @@
 
 ## *Lab #4:*
 
-
+   * ggplot2 package:
+      * 
+      * 
+   * 
