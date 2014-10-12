@@ -129,5 +129,8 @@
    * randomForest package:
       * randomForest()
       * predict()
+   * useful, devtools packages:
+      * build.x()
+      * build.y()
    * 
 
