@@ -120,6 +120,7 @@
       * registerDoParallel()
       * stopCluster()
 
+## *Lab #6:*
 
-
+   * 
 
