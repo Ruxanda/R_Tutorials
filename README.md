@@ -126,5 +126,8 @@
       * rpart()
    * rpart.plot package:
       * rpart.plot()
+   * randomForest package:
+      * randomForest()
+      * predict()
    * 
 
