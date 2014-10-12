@@ -126,11 +126,14 @@
       * rpart()
    * rpart.plot package:
       * rpart.plot()
-   * randomForest package:
+   * Random Forest - randomForest package: 
       * randomForest()
       * predict()
-   * useful, devtools packages:
+   * Creating Formulas - useful, devtools packages: 
       * build.x()
       * build.y()
-   * 
+   * Elastic Net - glmnet package: 
+      * cv.glmnet()
+
+
 
