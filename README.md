@@ -124,5 +124,7 @@
 
    * rpart package:
       * rpart()
+   * rpart.plot package:
+      * rpart.plot()
    * 
 
