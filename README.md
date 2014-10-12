@@ -122,5 +122,7 @@
 
 ## *Lab #6:*
 
+   * rpart package:
+      * rpart()
    * 
 
