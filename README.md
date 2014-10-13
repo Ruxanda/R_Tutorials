@@ -140,6 +140,8 @@
    * Visualizations - ggplot2 package:
       * ggplot()
       * geom_line()
+      * geom_point()
+      * geom_text()
    * Time series:
       * ts()
    * Correlation Graphs:
