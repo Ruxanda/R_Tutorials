@@ -137,5 +137,8 @@
 
 ## *Lab #7:*
 
+   * ggplot2 package:
+      * ggplot()
+      * geom_line()
    * 
 
