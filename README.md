@@ -144,6 +144,6 @@
       * ts()
    * Correlation Graphs:
       * acf() - autocorrelation graph
-      * pacf()
+      * pacf() - partial autocorrelation graph
    * 
 
