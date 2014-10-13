@@ -145,5 +145,11 @@
    * Correlation Graphs:
       * acf() - autocorrelation graph
       * pacf() - partial autocorrelation graph
+   * ARIMA Models - forcast package:
+      * auto.arima()
+      * predict()
+      * forecast()
+   * Garch Models - quantmod package:
+      * getSymbols()
    * 
 
