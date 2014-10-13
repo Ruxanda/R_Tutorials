@@ -149,7 +149,15 @@
       * auto.arima()
       * predict()
       * forecast()
-   * Garch Models - quantmod package:
+   * Garch Model - quantmod package:
       * getSymbols()
-   * 
+   * eXtensible Time Series - xts package:
+      * plot()
+      * chartSeries()
+      * addBBands()
+      * addMACD()
+   * rugarch package:
+      * ugarchspec()
+      * ugarchfit()
+
 
