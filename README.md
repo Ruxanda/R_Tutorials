@@ -135,5 +135,7 @@
    * Elastic Net - glmnet package: 
       * cv.glmnet()
 
+## *Lab #7:*
 
+   * 
 
