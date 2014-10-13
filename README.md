@@ -137,8 +137,13 @@
 
 ## *Lab #7:*
 
-   * ggplot2 package:
+   * Visualizations - ggplot2 package:
       * ggplot()
       * geom_line()
+   * Time series:
+      * ts()
+   * Correlation Graphs:
+      * acf() - autocorrelation graph
+      * pacf()
    * 
 
