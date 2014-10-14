@@ -173,4 +173,11 @@
       * sprintf()
    * Build functions to extract APIs: 
       * function()
-   * 
+   * Naive Bayes - RTextTools, useful packages:
+      * create_matrix()
+      * as.matrix()
+      * naiveBayes()
+      * predict()
+
+
+
