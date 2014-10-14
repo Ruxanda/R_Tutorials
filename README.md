@@ -171,4 +171,6 @@
       * ldply()
    * double loop:
       * sprintf()
+   * Build functions to extract APIs: 
+      * function()
    * 
