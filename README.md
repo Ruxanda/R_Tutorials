@@ -169,4 +169,6 @@
       * fromJSON()
    * plyr package:
       * ldply()
+   * double loop:
+      * sprintf()
    * 
