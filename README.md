@@ -164,3 +164,7 @@
 
 ## *Lab #8:*
 
+   * for loops
+   * API - httr, rjson packages:
+      * 
+   * 
