@@ -166,5 +166,7 @@
 
    * for loops
    * API - httr, rjson packages:
-      * 
+      * fromJSON()
+   * plyr package:
+      * ldply()
    * 
